@@ -1,9 +1,11 @@
 * IMPORTANT:
-After all the made programs to make a program that: Sample solution using input from the user: (use a Scanner)
-Input the first number:  7
-Input the second number:  2
+After all the made programs to make a program that:
+Write a Java program that takes two numbers as input and display the divide of two numbers.
+Sample solution using input from the user: (use a Scanner)
+    Input the first number:  7
+    Input the second number:  2
 
-The division of a and b is:3
+    The division of a and b is:3
 
 
 1. Write a Java program to divide two numbers and print on the screen.
