@@ -1,0 +1,56 @@
+* IMPORTANT:
+After all the made programs to make a program that: Sample solution using input from the user: (use a Scanner)
+Input the first number:  7
+Input the second number:  2
+
+The division of a and b is:3
+
+
+1. Write a Java program to divide two numbers and print on the screen.
+
+Test Data :
+    50/3
+
+Expected Output :
+    16
+
+
+2.  Write a Java program to divide two numbers and print on the screen.
+
+Test Data :
+    100/2
+
+Expected Output :
+    50
+
+3.  Write a Java program to divide two numbers and print on the screen.
+
+Test Data :
+    51100/9
+
+Expected Output :
+    5677
+
+4.  Write a Java program to divide two numbers and print on the screen.
+
+Test Data :
+    2021/5
+
+Expected Output :
+    404
+
+5.  Write a Java program to divide two numbers and print on the screen.
+
+Test Data :
+    3000000/6
+
+Expected Output :
+    50,000
+
+6.  Write a Java program to divide two numbers and print on the screen.
+
+Test Data :
+    90000/15
+
+Expected Output :
+    6,000
