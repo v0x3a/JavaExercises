@@ -1,0 +1,12 @@
+1. Write a Java program to compare two numbers. (you must use a scanner)
+Input Data:
+    Input first integer: 25
+    Input second integer: 39
+
+Expected Output
+    25 != 39
+    25 < 39
+    25 <= 39
+
+For your help use this diagram:
+https://www.w3resource.com/w3r_images/java-basic-image-exercise-32.png
