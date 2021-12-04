@@ -11,3 +11,21 @@
 
     Expected Output
         Reverse string: !nodnoL ni namuh trams yrev ma I
+
+3. Write a Java program to reverse a word.
+    Sample Output:
+
+    Input a word: dsaf
+    Reverse word: fasd
+
+4. Write a Java program to convert a given string into lowercase.
+
+    Sample Output:
+    Input a String: THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+    the quick brown fox jumps over the lazy dog.
+
+5. Write a Java program to find the penultimate (next to last) word of a sentence.
+
+Sample Output:
+    Input a String: The quick brown fox jumps over the lazy dog.
+    Penultimate word: lazy

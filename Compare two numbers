@@ -10,3 +10,11 @@ Expected Output
 
 For your help use this diagram:
 https://www.w3resource.com/w3r_images/java-basic-image-exercise-32.png
+
+
+2. Write a Java program that accepts two integer values between 25 to 75 and return true if there is a common digit in both numbers.
+
+    Sample Output:
+    Input the first number : 35
+    Input the second number: 45
+    Result: true
